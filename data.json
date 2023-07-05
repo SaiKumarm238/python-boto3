@@ -1,0 +1,6 @@
+{'Item': {'username': 'saikumar', 'account_type': 'standard_user', 'last_name': 'Kumar', 'first_name': 'Sai', 'age': Decimal('28')
+    }, 'ResponseMetadata': {'RequestId': 'A336N3A85JCMFK8IEID2KC4SDJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'HTTPStatusCode': 200, 'HTTPHeaders': {'server': 'Server', 'date': 'Wed,
+            19 Apr 2023 11: 54: 19 GMT', 'content-type': 'application/x-amz-json-1.0', 'content-length': '143', 'connection': 'keep-alive', 'x-amzn-requestid': 'A336N3A85JCMFK8IEID2KC4SDJVV4KQNSO5AEMVJF66Q9ASUAAJG', 'x-amz-crc32': '2325982595'
+        }, 'RetryAttempts': 0
+    }
+}
